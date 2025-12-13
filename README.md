@@ -1,2 +1,2 @@
 # API em Java
-Códigos criados na disciplina de Orientação à Objetos do curso de ADS
+API com CRUD em Java integrado com banco MySQL para desenvolver um Sistema de Eventos
